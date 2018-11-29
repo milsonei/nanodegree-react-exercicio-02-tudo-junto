@@ -109,3 +109,6 @@ h2 {
 .recipient {
   color: #019ad2;
 }
+button:disabled{
+  cursor: not-allowed;
+}
